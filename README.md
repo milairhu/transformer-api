@@ -6,7 +6,7 @@ This is a lightweight Python API that exposes a REST endpoint to generate senten
 
 It exposes a single POST endpoint /embed that takes a list of input texts and returns their vector representations, ready to be stored or queried against a vector database like Qdrant.
 
-## ▶Quickstart
+## Quickstart
 
 Build and run the API in Docker:
 
